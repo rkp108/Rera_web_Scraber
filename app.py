@@ -9,21 +9,13 @@ driver = webdriver.Chrome(options=options)
 
 # Project and promoter URLs
 project_urls = [
-    "https://rera.odisha.gov.in/projects/project-details/VTJGc2RHVmtYMSs1MzhtY0xoLzhqRDk3MmpFVXBsVGczSzJFcXhMazRZdzNRREdQc3grcmpRMDd3R2EzZXo2U0lia1hUYmlwQTJyVTFZcTIyb3RQYXFqNytHblBZTzlZRklNclpNenJMWGM9",
-    "https://rera.odisha.gov.in/projects/project-details/VTJGc2RHVmtYMSs1eVdsUFZiT0VoN0hyQXZkZFpPdG53VkxGMjRkZEFUd085bTNkMmZXN0J4d3NlTERDT01qRjlSbFRNSjVvZVI4NGdKb2NIZWduN3ZwcmQ5aUtua09sQXB3eG9COUM5bGM9",
-    "https://rera.odisha.gov.in/projects/project-details/VTJGc2RHVmtYMTgyei9GWE14WGV6blhlVDhGQWJVckNlbjZFTkllNHJ5VmhNY2tIbDNhdHozTjRET1NidXlNWmJOZVQrbnhKOU1mSSs5WE5rQ3JXc0kvOEgxYVlMNjdEbDBUYkpuREV6T1E9",
-    "https://rera.odisha.gov.in/projects/project-details/VTJGc2RHVmtYMS9CMmwxVlVNZFZtRWwyNXpMeXBrZjhOQ1F6dTI2d0RsTGxjdGR3Uzl4U0hXczIxckV6eGExazhRLytTZC9hb0VpbXRhMDZwZkdld3hZNVdqVFhzQmpxNnVpL1hGK25PT0E9",
-    "https://rera.odisha.gov.in/projects/project-details/VTJGc2RHVmtYMTgyZjFHUmxjcndZN29ZM1dmbUhyQVZHSE5iVkViU1RoaGorQzY5OHh1OGNxVkFWUkxyaVB1VXJOYjdLOGU0RFIzdnNOMVVVT21KSjJ6Mlh3UHZBU3o2YzloczN3dDFBNDA9",
-    "https://rera.odisha.gov.in/projects/project-details/VTJGc2RHVmtYMSs4VVJaaFRWRmZ0OVNQQ2xmM0R1Zk14K1JNdnRqYUxLLzNRekxUN1pwU1UzTjFrS00yUUpLdkV5UjBna0I1dG8wWHluVFVLWjNLSGxlNFFBbTdlWmxhbHJYYldURmZWdjg9"
+    "----------------------",
+    "----------------------"
 ]
 
 promoter_urls = [
-    "https://rera.odisha.gov.in/projects/project-details/VTJGc2RHVmtYMTg2enlxdnFtVW1KREFMcU95Y3lFVm5ta09jWlNtdytDVndWTWVaWUNTVnlmbmd1M2FiUjQyK3JvNHlUSGVZaFlEbzU3WkN5WjVDS0VMYnVRdjgvTHlJMFFjcWN5RklIR1k9",
-    "https://rera.odisha.gov.in/projects/project-details/VTJGc2RHVmtYMStaek42d1FVYkNxNW52MWk2MWIreGZqK3dDUXNrZDRnVDU4M1pjbVJCOGI2ZWtnNEhxc2U4Z3ovS1l4RnYycGJndmdwRUlUOGRYNk85aDNSeVlPV2g1QWk2cjFNL2x5Wjg9",
-    "https://rera.odisha.gov.in/projects/project-details/VTJGc2RHVmtYMTlWRnJiNm5TMkNDMUFOY1VUM01YWnpjZE9DZmpaQ2RRVUFUSnBFa0NCVHBvdkIvOEZsUkEvRUkveiswS3dBd2N5bk5qNDMyYkZMdUw4KzNndWxuNENjUVdWTjNIZjNjdjA9",
-    "https://rera.odisha.gov.in/projects/project-details/VTJGc2RHVmtYMTlJZFZ2VndQdDVlT083TTJiZlRZdnYzK1FlVXV0KzQyMWRQRWpKTXNta00wSzRuV2JxdHhZNG1PN3JhWUFMcjZ5cmUzOWU0R25LdjNmR3VMOFBaZHg1M0NsWmcxbUNZTVk9",
-    "https://rera.odisha.gov.in/projects/project-details/VTJGc2RHVmtYMSsvRjlONk91cVRiTnVlRG5DODVhSjlaeTd4LzQ4OVJmU0piYWFRMldyRkxIQU14clZQdkp1bjV5dGw0bHFQb1JCUjZwbEpOMnJhTExpYTBVeEYrdVh0ai8yN1VVOG9kWmc9",
-    "https://rera.odisha.gov.in/projects/project-details/VTJGc2RHVmtYMTlDTm82M1NTWEVTSU5Kc1RvQXNEdUZVOG5laEV4SG5raUlPTGp2anRNYUJBUXBrall2bDRuM00wcnFGZ0t1blhJSjlSam1RZWJtRVFiNU8rQm5qMjJIQWxzZk02OWJDaTQ9"
+    "----------------------",
+    "----------------------"
 ]
 
 # Helper function
